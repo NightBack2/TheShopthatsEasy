@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f371d96-6161-41a9-b105-7cc440eadbf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/java-development.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mod03/Streams/src/main/java/com/pluralsight/streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mod03/Streams/src/main/java/com/pluralsight/streams/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/src/main/java/com/pluralsight/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/src/main/java/com/pluralsight/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/src/main/java/com/pluralsight/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/ContractFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/LeaseContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/SalesContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/main/java/com/pluralsight/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/main/java/com/pluralsight/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/main/java/com/pluralsight/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelOperations/src/test/java/RoomTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/HighScoreWins/src/main/java/com/pluralsight/HighScoreWins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/src/main/java/com/pluralsight/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/LoopingExercises/src/main/java/com/pluralsight/ForLoop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gbfsM1cS6KdBuZl5hOaPWRaIMe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f371d96-6161-41a9-b105-7cc440eadbf5" name="Changes" comment="" />
+      <created>1715971403220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715971403220</updated>
+    </task>
+    <servers />
+  </component>
+</project>
